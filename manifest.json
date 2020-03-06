@@ -1,17 +1,17 @@
 {
-    "format_version": 1,
+    "format_version": 2,
     "header": {
         "description": "Player become Zombie",
         "name": "PbZ",
         "uuid": "b7c502eb-a0cd-4906-82ad-def0cfcd7f38",
-        "version": [1, 1, 0]
+        "version": [2, 1, 0]
     },
     "modules": [
         {
             "description": "Player become Zombie",
             "type": "data",
             "uuid": "acc9ae1b-7173-44f2-a64a-4a2ab1439306",
-            "version": [1, 1, 0]
+            "version": [2, 1, 0]
         }
     ],
     "dependencies": [
